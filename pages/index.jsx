@@ -137,7 +137,7 @@ const Avatar = ({isNight, nightAvatarRef, dayAvatarRef}) => {
 
       <div ref={nightAvatarRef} className={`${style.glitchEffect} ${style.nightAvatarContainer}`}>
         <img src="/images/night-avatar.webp" alt="Elrond mafia character" className={`${style.avatarImgNight} ${style.glitchImg}`} />
-        <img src="/images/day-avatar.webp" alt="Elrond mafia character" className={`${style.avatarImgNight} ${style.glitchImg}`} />
+        <img src="/images/day-avatar_easter_egg.png" alt="Elrond mafia character" className={`${style.avatarImgNight} ${style.glitchImg}`} />
         <img src="/images/day-avatar.webp" alt="Elrond mafia character" className={`${style.avatarImgNight} ${style.glitchImg}`} />
         <img src="/images/day-avatar.webp" alt="Elrond mafia character" className={`${style.avatarImgNight} ${style.glitchImg}`} />
         {/* <img src="/images/day-avatar.webp" alt="Elrond mafia character" className={`${style.avatarImgNight} ${style.glitchImg}`} /> */}
